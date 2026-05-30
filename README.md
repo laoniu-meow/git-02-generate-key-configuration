@@ -2,15 +2,15 @@
 In this guide, we will walk you step-by-step through generating an SSH key on Linux and Mac, connecting it to GitHub, and then practicing how to clone a repository to your local environment
 
 Topic
-```bash
-1. Organize the key in specific folder
-2. Generate a new SSH key
-3. Start the SSH agent and Add the key to the SSH agent
-4. Copy the public key
-5. Add the key to GitHub
-6. Test the connection
-7. Use SSH URLs for Git operations
-```
+<ol type = "1">
+    <li>Organize the key in specific folder</li>
+    <li>Generate a new SSH key</li>
+    <li>Start the SSH agent and Add the key to the SSH agent</li>
+    <li>Copy the public key</li>
+    <li>Add the key to GitHub</li>
+    <li>Test the connection</li>
+    <li>Use SSH URLs for Git operations</li>
+</ol>
 
 ---
 
